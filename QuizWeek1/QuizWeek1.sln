@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{BF3207DF-25AF-4F91-B430-ECB791B23D19}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E8A6F522-113A-41E0-AA57-19697C1E377C}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "QuizWeek1", "src\QuizWeek1\QuizWeek1.xproj", "{34B5D816-2189-457F-8130-2710BA9EEBDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34B5D816-2189-457F-8130-2710BA9EEBDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34B5D816-2189-457F-8130-2710BA9EEBDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34B5D816-2189-457F-8130-2710BA9EEBDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34B5D816-2189-457F-8130-2710BA9EEBDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{34B5D816-2189-457F-8130-2710BA9EEBDA} = {BF3207DF-25AF-4F91-B430-ECB791B23D19}
+	EndGlobalSection
+EndGlobal

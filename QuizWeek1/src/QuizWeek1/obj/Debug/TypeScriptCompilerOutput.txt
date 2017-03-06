@@ -1,0 +1,2 @@
+C:\Users\mbags\Documents\Visual Studio 2015\Projects\QuizWeek1\src\QuizWeek1\wwwroot\file.js
+C:\Users\mbags\Documents\Visual Studio 2015\Projects\QuizWeek1\src\QuizWeek1\wwwroot\file.js.map
